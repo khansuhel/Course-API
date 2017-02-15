@@ -1,0 +1,6 @@
+com\example\apis\courseapi\entity\Course.class
+com\example\apis\courseapi\service\CourseService.class
+com\example\apis\courseapi\entity\Instructor.class
+com\example\apis\courseapi\dao\CourseDAO.class
+com\example\apis\courseapi\App.class
+com\example\apis\courseapi\controller\CourseController.class
